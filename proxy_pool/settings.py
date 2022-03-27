@@ -39,7 +39,7 @@ REQUEST_TIMEOUT = 3
 # 配置run_spider模块
 # ---配置spider
 SPIDER_LIST = {
-    "proxy_pool.core.proxy_spider.xila_spider.XiLaSpider",
+    "proxy_pool.core.proxy_spider.kuai_spider.kuaiSpider",
     "proxy_pool.core.proxy_spider.ip3366_spider.Ip3366Spider",
 }
 # ---配置schedule的周期
